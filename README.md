@@ -1,9 +1,2 @@
 # Book Cover Matcher and Organizer
-A Python script for matching cover pages, extracting them, and organizing books in a directory.
-
-## Features
-
-- **Cover Page Matching:** Automatically matches cover pages for books.
-- **Extraction:** Extracts cover pages from books.
-- **Iteration:** Iterates over all books in the main directory and checks subfolders.
-- **Organizing:** Copies books into the main folder if they don't exist.
+A Python script designed to efficiently manage the organization of books by copying them into the primary directory if they are not already present in either the main folder or its subfolders. This script aims to streamline the process of maintaining a well-organized book collection, ensuring that all relevant books are centralized in the main directory.
